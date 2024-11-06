@@ -1,7 +1,7 @@
 "use client"
 
 import { formatDate } from "@curiousleaf/utils"
-import type { License } from "@openalternative/db"
+import type { License } from "@opensourcewisely/db"
 import type { ColumnDef } from "@tanstack/react-table"
 import { LicenseActions } from "~/app/(dashboard)/licenses/_components/license-actions"
 import { DataTableColumnHeader } from "~/components/data-table/data-table-column-header"

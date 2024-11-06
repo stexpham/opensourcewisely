@@ -1,7 +1,7 @@
 "use client"
 
 import { isTruthy } from "@curiousleaf/utils"
-import type { Tool } from "@openalternative/db"
+import type { Tool } from "@opensourcewisely/db"
 import type { Row } from "@tanstack/react-table"
 import { isFriday } from "date-fns"
 import { addDays, isWednesday } from "date-fns"

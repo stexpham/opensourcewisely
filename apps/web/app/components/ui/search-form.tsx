@@ -27,7 +27,7 @@ export const SearchForm = ({ className, ...props }: HTMLAttributes<HTMLFormEleme
       <div className="relative flex">
         <Input
           ref={inputRef}
-          name="openalternative[query]"
+          name="opensourcewisely[query]"
           size="sm"
           placeholder="Search tools..."
           className={cx(

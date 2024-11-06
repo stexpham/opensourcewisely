@@ -52,7 +52,7 @@ export const SearchBox = ({ className, ...props }: SearchBoxProps) => {
           <span className="opacity-50 max-sm:hidden">search by</span>
 
           <a
-            href="https://www.algolia.com/developers/?utm_source=openalternative&utm_medium=referral"
+            href="https://www.algolia.com/developers/?utm_source=opensourcewisely&utm_medium=referral"
             target="_blank"
             rel="noopener noreferrer nofollow"
             className="text-foreground/40 pointer-events-auto hover:text-primary"

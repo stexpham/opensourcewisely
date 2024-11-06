@@ -1,4 +1,4 @@
-import type { Prisma, Tool } from "@openalternative/db"
+import type { Prisma, Tool } from "@opensourcewisely/db"
 import type { Jsonify } from "inngest/helpers/jsonify"
 import { firstCommitQuery, githubClient, repositoryQuery } from "~/services/github"
 import type { FirstCommitQueryResult, RepositoryQueryResult } from "~/types/github"

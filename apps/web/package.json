@@ -1,5 +1,5 @@
 {
-  "name": "@openalternative/web",
+  "name": "@opensourcewisely/web",
   "version": "0.0.0",
   "private": true,
   "sideEffects": false,
@@ -19,7 +19,7 @@
     "@curiousleaf/utils": "^1.0.36",
     "@epic-web/remember": "^1.1.0",
     "@number-flow/react": "^0.2.3",
-    "@openalternative/db": "workspace:*",
+    "@opensourcewisely/db": "workspace:*",
     "@radix-ui/react-checkbox": "^1.1.2",
     "@radix-ui/react-dropdown-menu": "^2.1.1",
     "@radix-ui/react-popover": "^1.1.2",

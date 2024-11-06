@@ -3,7 +3,7 @@
 import * as React from "react"
 import type { DataTableFilterField } from "~/types"
 
-import type { Alternative } from "@openalternative/db"
+import type { Alternative } from "@opensourcewisely/db"
 import { PlusIcon } from "lucide-react"
 import Link from "next/link"
 import { DataTable } from "~/components/data-table/data-table"

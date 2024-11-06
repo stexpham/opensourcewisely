@@ -1,6 +1,6 @@
 "use client"
 
-import type { Category } from "@openalternative/db"
+import type { Category } from "@opensourcewisely/db"
 import type { Row } from "@tanstack/react-table"
 import { EllipsisIcon } from "lucide-react"
 import Link from "next/link"

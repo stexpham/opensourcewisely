@@ -275,7 +275,7 @@ export default function ToolsPage() {
                   asChild
                 >
                   <a
-                    href={updateUrlWithSearchParams(tool.website, { ref: "openalternative" })}
+                    href={updateUrlWithSearchParams(tool.website, { ref: "opensourcewisely" })}
                     target="_blank"
                     rel={`noreferrer noopener ${tool.isFeatured ? "" : "nofollow"}`}
                   >
@@ -292,7 +292,7 @@ export default function ToolsPage() {
                   asChild
                 >
                   <a
-                    href={updateUrlWithSearchParams(tool.hostingUrl, { ref: "openalternative" })}
+                    href={updateUrlWithSearchParams(tool.hostingUrl, { ref: "opensourcewisely" })}
                     target="_blank"
                     rel="noreferrer"
                   >

@@ -95,7 +95,7 @@ export const getMetaTags = ({
               "@type": "SearchAction",
               target: {
                 "@type": "EntryPoint",
-                urlTemplate: `${SITE_URL}/?openalternative[query]={search_term_string}`,
+                urlTemplate: `${SITE_URL}/?opensourcewisely[query]={search_term_string}`,
               },
               "query-input": "required name=search_term_string",
             },

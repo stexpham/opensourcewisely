@@ -1,6 +1,6 @@
 "use client"
 
-import type { License } from "@openalternative/db"
+import type { License } from "@opensourcewisely/db"
 import type { Row } from "@tanstack/react-table"
 import { TrashIcon } from "lucide-react"
 import type * as React from "react"

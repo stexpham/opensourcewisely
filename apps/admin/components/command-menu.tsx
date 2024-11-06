@@ -1,6 +1,6 @@
 "use client"
 
-import type { Alternative, Category, License, Tool } from "@openalternative/db"
+import type { Alternative, Category, License, Tool } from "@opensourcewisely/db"
 import { LoaderIcon } from "lucide-react"
 import { useRouter } from "next/navigation"
 import { useEffect, useState } from "react"

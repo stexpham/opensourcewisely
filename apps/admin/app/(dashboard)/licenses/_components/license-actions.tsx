@@ -1,6 +1,6 @@
 "use client"
 
-import type { License } from "@openalternative/db"
+import type { License } from "@opensourcewisely/db"
 import type { Row } from "@tanstack/react-table"
 import { EllipsisIcon } from "lucide-react"
 import Link from "next/link"

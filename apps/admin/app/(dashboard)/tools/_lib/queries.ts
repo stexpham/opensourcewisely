@@ -1,7 +1,7 @@
 import "server-only"
 
 import { isTruthy } from "@curiousleaf/utils"
-import type { Prisma } from "@openalternative/db"
+import type { Prisma } from "@opensourcewisely/db"
 import { endOfDay, startOfDay } from "date-fns"
 import { unstable_noStore as noStore } from "next/cache"
 import { prisma } from "~/services/prisma"

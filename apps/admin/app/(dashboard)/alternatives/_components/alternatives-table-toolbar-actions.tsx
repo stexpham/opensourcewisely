@@ -1,6 +1,6 @@
 "use client"
 
-import type { Alternative } from "@openalternative/db"
+import type { Alternative } from "@opensourcewisely/db"
 import type { Table } from "@tanstack/react-table"
 import { AlternativesDeleteDialog } from "./alternatives-delete-dialog"
 

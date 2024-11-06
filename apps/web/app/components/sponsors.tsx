@@ -65,7 +65,7 @@ export const Sponsors = ({ className, ...props }: HTMLAttributes<HTMLDivElement>
       {sponsors.map(sponsor => (
         <a
           key={sponsor.name}
-          href={updateUrlWithSearchParams(sponsor.websiteUrl, { ref: "openalternative" })}
+          href={updateUrlWithSearchParams(sponsor.websiteUrl, { ref: "opensourcewisely" })}
           target="_blank"
           rel="noopener noreferrer"
           className="flex flex-wrap items-center gap-x-2 font-semibold opacity-85 hover:opacity-100 md:text-lg"

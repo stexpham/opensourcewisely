@@ -1,7 +1,7 @@
 import { createAnthropic } from "@ai-sdk/anthropic"
 import { openai } from "@ai-sdk/openai"
 import { isTruthy } from "@curiousleaf/utils"
-import type { Tool } from "@openalternative/db"
+import type { Tool } from "@opensourcewisely/db"
 import { generateObject } from "ai"
 import type { Jsonify } from "inngest/helpers/jsonify"
 import { z } from "zod"

@@ -24,7 +24,7 @@ export const SponsoringCard = ({ className, sponsoring, rel, ...props }: Sponsor
       <Link
         to={
           sponsoring?.website
-            ? updateUrlWithSearchParams(sponsoring.website, { ref: "openalternative" })
+            ? updateUrlWithSearchParams(sponsoring.website, { ref: "opensourcewisely" })
             : "/advertise"
         }
         target={sponsoring?.website ? "_blank" : "_self"}

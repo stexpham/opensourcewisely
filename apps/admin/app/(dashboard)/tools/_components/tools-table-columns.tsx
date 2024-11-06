@@ -1,7 +1,7 @@
 "use client"
 
 import { formatDate } from "@curiousleaf/utils"
-import type { Tool } from "@openalternative/db"
+import type { Tool } from "@opensourcewisely/db"
 import type { ColumnDef } from "@tanstack/react-table"
 import { ToolActions } from "~/app/(dashboard)/tools/_components/tool-actions"
 import { DataTableColumnHeader } from "~/components/data-table/data-table-column-header"

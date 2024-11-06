@@ -1,4 +1,4 @@
-import type { Prisma } from "@openalternative/db"
+import type { Prisma } from "@opensourcewisely/db"
 import { allPosts } from "content-collections"
 import { prisma } from "~/services.server/prisma"
 

@@ -1,6 +1,6 @@
 "use client"
 
-import type { License } from "@openalternative/db"
+import type { License } from "@opensourcewisely/db"
 import type { Table } from "@tanstack/react-table"
 import { LicensesDeleteDialog } from "./licenses-delete-dialog"
 

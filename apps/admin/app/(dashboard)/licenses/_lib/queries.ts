@@ -1,6 +1,6 @@
 import "server-only"
 
-import type { Prisma } from "@openalternative/db"
+import type { Prisma } from "@opensourcewisely/db"
 import type { SearchParams } from "algoliasearch"
 import { endOfDay, startOfDay } from "date-fns"
 import { unstable_noStore as noStore } from "next/cache"

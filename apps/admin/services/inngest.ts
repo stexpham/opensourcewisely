@@ -15,6 +15,6 @@ type Events = {
 }
 
 export const inngest = new Inngest({
-  id: "openalternative",
+  id: "opensourcewisely",
   schemas: new EventSchemas().fromRecord<Events>(),
 })

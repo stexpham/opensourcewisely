@@ -14,12 +14,12 @@ export const Filters = ({ className, ...props }: HTMLAttributes<HTMLElement>) =>
   const [isFiltersOpen, setIsFiltersOpen] = useLocalStorage("filtersOpen", false)
 
   const sortByItems = [
-    { value: "openalternative", label: "Default" },
-    { value: "openalternative_published_desc", label: "Latest" },
-    { value: "openalternative_name_asc", label: "Name" },
-    { value: "openalternative_stars_desc", label: "Stars" },
-    { value: "openalternative_forks_desc", label: "Forks" },
-    { value: "openalternative_lastcommit_desc", label: "Last Commit" },
+    { value: "opensourcewisely", label: "Default" },
+    { value: "opensourcewisely_published_desc", label: "Latest" },
+    { value: "opensourcewisely_name_asc", label: "Name" },
+    { value: "opensourcewisely_stars_desc", label: "Stars" },
+    { value: "opensourcewisely_forks_desc", label: "Forks" },
+    { value: "opensourcewisely_lastcommit_desc", label: "Last Commit" },
   ]
 
   const hitsPerPageItems = [

@@ -1,5 +1,5 @@
 {
-  "name": "@openalternative/admin",
+  "name": "@opensourcewisely/admin",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -19,7 +19,7 @@
     "@hookform/resolvers": "^3.9.0",
     "@mendable/firecrawl-js": "^1.6.1",
     "@octokit/graphql": "^8.1.1",
-    "@openalternative/db": "workspace:*",
+    "@opensourcewisely/db": "workspace:*",
     "@radix-ui/react-avatar": "^1.1.1",
     "@radix-ui/react-checkbox": "^1.1.2",
     "@radix-ui/react-dialog": "^1.1.2",

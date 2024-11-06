@@ -2,7 +2,7 @@ import type { SponsoringOne } from "~/services.server/api"
 
 export const SITE_URL = import.meta.env.NEXT_PUBLIC_SITE_URL
 export const SITE_EMAIL = import.meta.env.NEXT_PUBLIC_SITE_EMAIL
-export const SITE_NAME = "OpenSourceWisely"
+export const SITE_NAME = "Open Source Wisely"
 export const SITE_TAGLINE = "Open Source Alternatives to Popular Software"
 export const SITE_DESCRIPTION =
   "A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you."

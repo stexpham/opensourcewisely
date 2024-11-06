@@ -1,7 +1,7 @@
 import { env } from "~/env"
 
 export const siteConfig = {
-  name: "OpenSourceWisely",
+  name: "Open Source Wisely",
   description:
     "An admin panel for Open Source Wisely — a collection of open source alternatives to popular software.",
   email: env.NEXT_PUBLIC_SITE_EMAIL,

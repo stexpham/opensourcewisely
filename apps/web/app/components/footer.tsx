@@ -175,14 +175,14 @@ export const Footer = ({ children, className, hideNewsletter, ...props }: Footer
         >
           <img
             src="/authors/piotrkulpinski.jpg"
-            alt="Piotr Kulpinski"
+            alt="Steve Pham"
             loading="lazy"
             width="16"
             height="16"
             decoding="async"
             className="max-sm:hidden size-4 rounded-full"
           />
-          Made by Piotr Kulpinski
+          Made by Steve Pham
         </NavigationLink>
 
         <p className="text-xs text-muted">This website may contain affiliate links</p>

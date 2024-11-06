@@ -75,7 +75,7 @@ export const getMetaTags = ({
           {
             "@type": "Person",
             "@id": `${SITE_URL}#/schema/person/2`,
-            name: "Piotr Kulpinski",
+            name: "Steve Pham",
             sameAs: [AUTHOR_URL],
           },
           {

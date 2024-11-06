@@ -4,7 +4,7 @@ description: "Discover how companies and developers profit from open source soft
 image: "/content/open-source-money.avif"
 datePublished: 2024-08-19
 author:
-  name: Piotr Kulpinski
+  name: Steve Pham
   image: "/authors/piotrkulpinski.jpg"
   twitterHandle: "piotrkulpinski"
 ---

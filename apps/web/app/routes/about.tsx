@@ -97,7 +97,7 @@ ${FAMILY_LINKS.map(link => `* [${link.title}](${addUTMTracking(link.href, { sour
 
 I’m always looking for new projects to work on and new people to collaborate with. Feel free to reach out to me if you have any questions or suggestions.
 
-– [Piotr Kulpinski](${AUTHOR_URL})
+– [Steve Pham](${AUTHOR_URL})
   `
 
   return (
